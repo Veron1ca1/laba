@@ -1,0 +1,12 @@
+$ git log
+commit dddc9d89e5aac00cf3c929d3bbac986090030646 (HEAD -> master)
+Author: Вероника <evchevaveronika.com>
+Date:   Thu Mar 6 20:35:56 2025 +0500
+
+    Второй коммит
+
+commit 5da51a9c84059755717ca0bb1bca72e052da2646
+Author: Вероника <evchevaveronika.com>
+Date:   Thu Mar 6 20:28:26 2025 +0500
+
+    Первый коммит
